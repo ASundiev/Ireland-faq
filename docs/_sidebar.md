@@ -1,3 +1,6 @@
+* ![](asundiev.github.io/Ireland-faq/docs/icons/travel.svg) [Главная](/)
+
+
 * ![](asundiev.github.io/Ireland-faq/docs/icons/travel.svg) Переезд
 
     * [Доставка товаров из UK и EU](pages/move/delivery.md)
