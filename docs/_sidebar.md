@@ -5,31 +5,31 @@
     * [Виза](pages/move/visa.md)
 
 
-* ![](/icons/pets.svg) Животные
+* ![](icons/pets.svg) Животные
 
     * [Ввоз собаки](pages/pets/import.md)
     * [Ветеринарные клиники](pages/pets/vets.md)
     * [Страховка + лицензия](pages/pets/insurance.md)
 
 
-* ![](/icons/home.svg) Жильё
+* ![](icons/home.svg) Жильё
 
     * [Поиск жилья](pages/home/search.md)
     * [Переработка мусора](pages/home/garbage.md)
 
 
-* ![](/icons/money.svg) Деньги и налоги
+* ![](icons/money.svg) Деньги и налоги
 
     * [Общая информация](pages/money/common.md)
 
 
-* ![](/icons/health.svg) Здоровье
+* ![](icons/health.svg) Здоровье
 
     * [Клиники](pages/health/clinics.md)
     * [Лекарства](pages/health/drugs.md)
 
 
-* ![](/icons/fun.svg) Отдых
+* ![](icons/fun.svg) Отдых
 
     * [Море, пляж](pages/leisure/sea.md)
     * [Покупки](pages/leisure/grocery.md)
@@ -37,7 +37,7 @@
     * [Развлечения, досуг](pages/leisure/fun.md)
 
 
-* ![](/icons/car.svg) Транспорт
+* ![](icons/car.svg) Транспорт
 
     * [Общественный транспорт](pages/transport/public.md)
     * [Получение прав](pages/transport/license.md)
@@ -46,7 +46,7 @@
 
 
 
-* ![](/icons/connectivity.svg) Коммуникации
+* ![](icons/connectivity.svg) Коммуникации
 
     * [Мобильная связь](pages/communication/mobile.md)
     * [Интернет](pages/communication/internet.md)
