@@ -37,7 +37,7 @@
     * [Развлечения, досуг](pages/leisure/fun.md)
 
 
-* ![](../../icons/car.svg) Транспорт
+* ![](https://github.com/ASundiev/Ireland-faq/blob/master/docs/icons/car.svg) Транспорт
 
     * [Общественный транспорт](pages/transport/public.md)
     * [Получение прав](pages/transport/license.md)
