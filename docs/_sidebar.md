@@ -1,4 +1,4 @@
-* ![](/docs/icons/travel.svg) Переезд
+* ![](/icons/travel.svg) Переезд
 
     * [Доставка товаров из UK и EU](pages/move/delivery.md)
     * [Proof of address](pages/move/proof.md)
