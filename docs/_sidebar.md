@@ -1,4 +1,4 @@
-* ![](asundiev.github.io/Ireland-faq/docs/icons/travel.svg) [Главная](/)
+![](asundiev.github.io/Ireland-faq/docs/icons/travel.svg) [Главная](/)
 
 
 * ![](../icons/travel.svg) Переезд
