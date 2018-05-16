@@ -5,7 +5,7 @@
     * [Виза](pages/move/visa.md)
 
 
-* ![](/icons/pets.svg) Животные
+* ![](/docs/icons/pets.svg) Животные
 
     * [Ввоз собаки](pages/pets/import.md)
     * [Ветеринарные клиники](pages/pets/vets.md)
