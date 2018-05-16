@@ -1,35 +1,35 @@
-* ![](Ireland-faq/docs/icons/travel.svg) Переезд
+* ![](asundiev.github.io/Ireland-faq/docs/icons/travel.svg) Переезд
 
     * [Доставка товаров из UK и EU](pages/move/delivery.md)
     * [Proof of address](pages/move/proof.md)
     * [Виза](pages/move/visa.md)
 
 
-* ![](icons/pets.svg) Животные
+* ![](asundiev.github.io/Ireland-faq/docs/icons/pets.svg) Животные
 
     * [Ввоз собаки](pages/pets/import.md)
     * [Ветеринарные клиники](pages/pets/vets.md)
     * [Страховка + лицензия](pages/pets/insurance.md)
 
 
-* ![](icons/home.svg) Жильё
+* ![](asundiev.github.io/Ireland-faq/docs/icons/home.svg) Жильё
 
     * [Поиск жилья](pages/home/search.md)
     * [Переработка мусора](pages/home/garbage.md)
 
 
-* ![](icons/money.svg) Деньги и налоги
+* ![](asundiev.github.io/Ireland-faq/docs/icons/money.svg) Деньги и налоги
 
     * [Общая информация](pages/money/common.md)
 
 
-* ![](icons/health.svg) Здоровье
+* ![](asundiev.github.io/Ireland-faq/docs/icons/health.svg) Здоровье
 
     * [Клиники](pages/health/clinics.md)
     * [Лекарства](pages/health/drugs.md)
 
 
-* ![](icons/fun.svg) Отдых
+* ![](asundiev.github.io/Ireland-faq/docs/icons/fun.svg) Отдых
 
     * [Море, пляж](pages/leisure/sea.md)
     * [Покупки](pages/leisure/grocery.md)
@@ -37,7 +37,7 @@
     * [Развлечения, досуг](pages/leisure/fun.md)
 
 
-* ![](icons/car.svg) Транспорт
+* ![](asundiev.github.io/Ireland-faq/docs/icons/car.svg) Транспорт
 
     * [Общественный транспорт](pages/transport/public.md)
     * [Получение прав](pages/transport/license.md)
@@ -46,7 +46,7 @@
 
 
 
-* ![](icons/connectivity.svg) Коммуникации
+* ![](asundiev.github.io/Ireland-faq/docs/icons/connectivity.svg) Коммуникации
 
     * [Мобильная связь](pages/communication/mobile.md)
     * [Интернет](pages/communication/internet.md)
