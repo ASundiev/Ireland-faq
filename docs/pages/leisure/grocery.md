@@ -8,3 +8,4 @@
 * Rasputin
 * Kozak
 * Polonez
+* Continental
