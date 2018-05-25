@@ -10,6 +10,10 @@
 
 * [AquaZone (National Aquatic Centre)](https://www.aquazone.ie/) — аквапарк
 
+* [JumpZone)](https://jumpzone.ie/) — батут
+
+* [Zipit)](https://www.zipit.ie/) — панда-парк
+
 ***
 
 ## Парки
