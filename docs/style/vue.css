@@ -575,14 +575,14 @@ section.cover.show {
     display: flex
 }
 
-section.cover.has-mask .mask {
+/* section.cover.has-mask .mask {
     background-color: #fff;
     opacity: .8;
     position: absolute;
     top: 0;
     height: 100%;
     width: 100%
-}
+} */
 
 section.cover .cover-main {
     -ms-flex: 1;
